@@ -387,7 +387,7 @@ int fuzzy_control(int encoder_value)
 				GPIO_SetBits(GPIOC, GPIO_Pin_2);
 				GPIO_ResetBits(GPIOC, GPIO_Pin_1);
 			}
-			//0total_results=0;
+			total_results=0;
 			return total_results;
 		}
 

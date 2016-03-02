@@ -1,0 +1,7 @@
+*.axf
+*.lnp
+OBJ/BEEP.htm
+*.o
+OBJ/BEEP_BEEP.dep
+*.d
+*.crf
